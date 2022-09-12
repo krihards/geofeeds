@@ -1,6 +1,10 @@
 85.254.178.0/23,GB,,London
-159.148.109.0/24,US,,Ashburn
-159.148.234.0/24,US,,Ashburn
-85.254.84.0/23,US,,Chicago
-159.148.218.0/24,US,,Seattle
 159.148.66.0/24,US,,Seattle
+159.148.109.0/24,US,,Ashburn
+159.148.204.0/24,US,,Dallas
+159.148.216.0/24,US,,Dallas
+159.148.218.0/24,US,,Seattle
+159.148.234.0/24,US,,Ashburn
+85.254.64.0/23,US,,Denver
+85.254.84.0/23,US,,Chicago
+85.254.180.0/23,US,,New York
